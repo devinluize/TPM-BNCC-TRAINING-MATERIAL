@@ -1,0 +1,9 @@
+laravel -> framework -> suatu kerangka kerja suatu(template) dimana kita bisa melakukan coding tanpa harus coding dari 0
+laravel -> menggunakan PHP. 
+
+PHP -> adalah suatu bahasa scripting yang populer selain javascript 
+    -> scripting language -> saat kita jalanin dia interpretasikan 
+    -> programming language -> bahasa pemrograman -> pas kita jalanin dia bakal ngelakuin compiling 
+        -> menjadi suatu runnable application 
+    -> kita belajar PHP biar nanti saat kita pakai frameworknya laravel kalian bakal ngelakuin modifikasi pada code. 
+    -> php itu server side -> 
